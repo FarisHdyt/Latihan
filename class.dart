@@ -19,7 +19,7 @@ class Book {
 }
 
 void main() {
-  Book book1 = Book("Serba-serbi EXP Laner", "Faris Hidayatullah", 200.0);
+  Book book1 = Book("Tutorial Bermain Catur", "Fandu Vellindio", 200.0);
 
   book1.displayInfo(); // Menampilkan informasi buku
   book1.applyDiscount(15); // Menerapkan diskon 15%

@@ -3,14 +3,14 @@
 void main() {
   // Deklarasi variabel dengan berbagai tipe data
   int umur = 20;
-  double tinggi = 169.5;
-  String nama = "Faris Hidayatullah";
+  double tinggi = 160;
+  String nama = "Fandu Vellindio";
   bool isStudent = true;
   List<String> hobi = ["Baca Komik", "Basket", "Tidur"];
   Map<String, dynamic> alamat = {
     'kota': 'Jakarta',
     'negara': 'Indonesia',
-    'kodePos': 12345
+    'kodePos': 24390
   };
 
   // Mencetak nilai variabel
